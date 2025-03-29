@@ -7,7 +7,8 @@ SOFTWARE: Google Colab
 Python Libraries: Numpy,Matplotlib
 
 PROGRAM:
- import matplotlib.pyplot as plt
+~~~~
+import matplotlib.pyplot as plt
 import numpy as np
 
 # Parameters
@@ -70,7 +71,7 @@ plt.grid(True)
 
 plt.tight_layout()
 plt.show()
-
+~~~~
 OUTPUT WAVEFORM:
 ![DC EXP3](https://github.com/user-attachments/assets/71dad1f8-25b5-48b6-bd51-b8ea68791f9e)
 
